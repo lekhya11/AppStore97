@@ -1,0 +1,41 @@
+.app-container {
+  background-image: linear-gradient(to bottom, #fff1eb, #dfe2e5, #ace0f9);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.heading {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Bre Serif';
+  color: #1e293b;
+}
+.search-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.input {
+  border-radius: 5px;
+  border: 2px solid #7b8794;
+  color: #7b8794;
+  font-family: 'Bree Serif';
+}
+.search-image {
+  height: 30px;
+  width: 30px;
+}
+.tabs-container {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  background-color: transparent;
+}
+.Apps-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
