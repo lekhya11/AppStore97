@@ -1,0 +1,18 @@
+.button {
+  border: none;
+  outline: none;
+  text-decoration: underline;
+  color: #7b8794;
+  text-decoration-color: #7b8794;
+  font-size: 15px;
+  font-family: 'Bree serif';
+  font-weight: 500;
+}
+
+.active {
+  color: #2563eb;
+  text-decoration-color: #2563eb;
+}
+.button-tabs {
+  background-color: transparent;
+}
